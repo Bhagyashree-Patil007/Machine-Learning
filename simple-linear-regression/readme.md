@@ -1,8 +1,5 @@
 # 📈 02 — Simple Linear Regression
 
-> **Caveman style notes** — simple words, tables, diagrams, examples. No filler.
-> Source: Day 48 (Simple Linear Regression) + Day 49 (Regression Metrics).
-
 ---
 
 ## 📑 Table of Contents
