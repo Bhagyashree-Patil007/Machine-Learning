@@ -2,16 +2,6 @@
 
 ---
 
-## 📁 What is in this folder?
-
-```
-03_multiple_linear_regression/
-├── README.md                          ← notes (this file)
-└── multiple_linear_regression.ipynb   ← Python code (sklearn + 3D plot)
-```
-
----
-
 ## 📑 Table of Contents
 
 1. [Recap](#1-recap--simple-linear-regression)
